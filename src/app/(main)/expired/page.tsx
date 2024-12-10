@@ -1,4 +1,4 @@
-import TaskCard from "@/app/components/TaskCard/TaskCard";
+import TaskCard from "@/components/TaskCard/TaskCard";
 
 const ExpiredTaskPage = () => {
   return (
